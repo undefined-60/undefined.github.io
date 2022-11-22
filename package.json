@@ -1,0 +1,31 @@
+{
+  "name": "undefined.github.io",
+  "version": "1.0.5",
+  "description": "A simple code to javaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undefined-60/undefined.github.io.git"
+  },
+  "keywords": [
+    "script",
+    "github",
+    "automation"
+  ],
+  "engines": {
+    "node": "16.15.0"
+  },
+  "author": "undefined-60",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/undefined-60/undefined.github.io/issues"
+  },
+  "dependencies": {
+  "fs-extra": "^10.0.0",
+  "axios": "^0.27.2"
+  },
+  "homepage": "https://github.com/undefined-60/undefined.github.io#readme"
+}
